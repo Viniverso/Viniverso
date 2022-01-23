@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Viniverso
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning how to make a game projects with focus on communicate and interate with users
-- 💞️ I’m looking to collaborate on Dev Tools ideas to facilitate over the game production
+- 👋 Hi, I’m Vinícius aka @Viniverso
+- 👀 I’m interested in Game/AR Development
+- 🌱 I’m currently learning how to make game projects better
+- 💞️ I’m looking to collaborate on Game Dev ideas/development to facilitate over the game production
 - 📫 How to reach me? You can send me a e-mail: vinicius at hiperverso.com
 
 <!---
